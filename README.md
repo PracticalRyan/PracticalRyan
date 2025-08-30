@@ -3,8 +3,8 @@
 - 👨‍💻 Studying Computer Engineering @ Mahidol University
 
 I'm bilingual in Thai and English, most of my contributions are translations since I'm still learning to code :P. I'm interested in self-hosted services, web, and app development.
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=practicalryan" height="150" alt="profile trophy"  />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=practicalryan&column=5" height="150" alt="profile trophy"  />
 </div>
 
 <div align="center">
