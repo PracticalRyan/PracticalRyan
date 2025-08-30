@@ -4,7 +4,7 @@
 
 I'm bilingual in Thai and English, most of my contributions are translations since I'm still learning to code :P. I'm interested in self-hosted services, web, and app development.
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=practicalryan&column=5" height="150" alt="profile trophy"  />
+<img src="https://github-profile-trophy.vercel.app/?username=practicalryan&column=5&theme=onedark" height="250" alt="profile trophy"  />
 </div>
 
 <div align="center">
