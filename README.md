@@ -1,8 +1,11 @@
 # Hi! I'm Ryan
-- Bangkok, Thailand
+- 📍 Bangkok, Thailand
 - 👨‍💻 Studying Computer Engineering @ Mahidol University
 
-I'm bilingual in Thai and English, most of my contributions are translations since I'm still learning to code :P. I'm interested in self-hosted services, web, and app development.
+I'm bilingual in Thai and English. Most of my contributions are translations since I'm still learning to code :P. 
+
+I'm passionate about **Web/App Development** and **Self-Hosted Services**. In fact, I currently host a public mirror for [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) on my own infrastructure!
+
 <div align="center">
 <img src="https://trophy.ryglcloud.net/?username=practicalryan&column=5&theme=onedark" height="250" alt="profile trophy"  />
 </div>
