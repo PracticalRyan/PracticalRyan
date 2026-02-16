@@ -4,7 +4,7 @@
 
 I'm bilingual in Thai and English. Most of my contributions are translations since I'm still learning to code :P. 
 
-I'm passionate about **Web/App Development** and **Self-Hosted Services**. In fact, I currently host a public mirror for [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) on my own infrastructure!
+I'm passionate about **Web/App Development** and **Self-Hosted Services**. In fact, I currently host a [public mirror](https://github.com/ryo-ma/github-profile-trophy/pull/413) for [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) on my own infrastructure!
 
 <div align="center">
 <img src="https://trophy.ryglcloud.net/?username=practicalryan&column=5&theme=onedark" height="250" alt="profile trophy"  />
